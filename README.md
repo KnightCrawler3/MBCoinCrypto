@@ -1,6 +1,10 @@
 # MBCoinCrypto
 Simple Blockchain implementation in Javascript. For educational purposes only. Reference from Savjee coin
 
+Simple proof-of-work algorithm
+Verify blockchain (to prevent tampering)
+Generate wallet (private/public key)
+Sign transactions
 
 Install library
 npm install --save savjeecoin
