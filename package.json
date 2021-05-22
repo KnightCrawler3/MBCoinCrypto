@@ -1,0 +1,26 @@
+{
+  "name": "mbcoin",
+  "version": "1.0.0",
+  "description": "Simple Blockchain implementation in Javascript. For educational purposes only. Reference from Savjee coin",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manish Baraskar",
+  "license": "MIT",
+  "dependencies": {
+    "debug": "^4.1.1",
+    "elliptic": "^6.5.4"
+  },
+  "devDependencies": {
+    "coveralls": "^3.0.6",
+    "eslint": "^6.5.1",
+    "eslint-config-standard": "^14.1.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-node": "^10.0.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1",
+    "mocha": "^6.2.3",
+    "nyc": "^14.1.1"
+  }
+}
