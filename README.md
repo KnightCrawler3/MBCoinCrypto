@@ -1,5 +1,5 @@
 # MBCoinCrypto
-Simple Blockchain implementation in Javascript. For educational purposes only. Reference from Savjee coin
+Simple Blockchain implementation in Javascript. For educational purposes only. 
 
 Simple proof-of-work algorithm
 Verify blockchain (to prevent tampering)
